@@ -1,4 +1,6 @@
-The folder contains the data for the analysis in this study.
+### The folder contains the data for the analysis in this study.
+
+The compiled top- and subsoil SOC turnover time data (estimated values at sample locations) in our study can be accessed at: [compiled_soc_turnover_sample_data.csv](https://github.com/leizhang-geo/global_soil_carbon_turnover_time/blob/main/datasets/compiled_soc_turnover_sample_data.csv)
 
 The original data source of WoSIS soil proﬁle (snapshot, September 2019) and the Northern Circumpolar Soil Carbon Database (NCSCD) can be found at:
 - WoSIS: [https://doi.org/10.17027/isric-wdcsoils.20190901](https://doi.org/10.17027/isric-wdcsoils.20190901)
