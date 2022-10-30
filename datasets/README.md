@@ -1,4 +1,4 @@
-### The folder contains the data for the analysis in this study.
+### This folder contains the data for the analysis in this study
 
 The compiled top- and subsoil SOC turnover time data (estimated values at sample locations) in our study can be accessed at: [compiled_soc_turnover_sample_data.csv](https://github.com/leizhang-geo/global_soil_carbon_turnover_time/blob/main/datasets/compiled_soc_turnover_sample_data.csv)
 
