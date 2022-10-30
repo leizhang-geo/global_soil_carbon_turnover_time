@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# user-defined files
+/datasets/wosis_2019/*.tsv
+/datasets/covariates
+/datasets/root_profile_data/processed
+/datasets/processed
