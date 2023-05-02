@@ -1,6 +1,8 @@
 # Global Soil Carbon Turnover Time
 This repository contains the code used for the analysis in the paper "Zhang et al. global patterns of top- and subsoil organic carbon turnover times".
 
+![global_soc_turnover_map](./figure.jpg)
+
 ## Requirement
 - Python3
 - numpy
