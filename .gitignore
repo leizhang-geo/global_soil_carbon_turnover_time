@@ -129,7 +129,5 @@ dmypy.json
 .pyre/
 
 # user-defined files
+/_oricode
 /datasets/wosis_2019/*.tsv
-/datasets/covariates
-/datasets/root_profile_data/processed
-/datasets/processed
