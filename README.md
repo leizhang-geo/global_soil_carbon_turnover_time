@@ -1,7 +1,7 @@
 # Global Soil Carbon Turnover Time
 This repository contains the code used for the analysis in the paper:
 
-Zhang et al. Global patterns and controls of top- and subsoil organic carbon turnover times (in revision).
+**Zhang, L., Yang, L., Crowther, T.W., Zohner, C.M., Doetterl, S., Heuvelink, G.B.M., Wadoux, A.M.J.-C., Zhu, A.-X., Pu, Y., Shen, F., Ma, H., Zou, Y., Zhou, C., 2025. Mapping global distributions, environmental controls, and uncertainties of apparent topsoil and subsoil organic carbon turnover times. *Earth System Science Data*** [https://doi.org/10.5194/essd-2024-618](https://doi.org/10.5194/essd-2024-618)
 
 ![global_soc_turnover_map](./figure.jpg)
 
@@ -27,7 +27,7 @@ Zhang et al. Global patterns and controls of top- and subsoil organic carbon tur
 
 ## License
 
-The code and data shared in this <a xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/leizhang-geo/global_soil_carbon_turnover_time.git">study</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://leizhang-geo.github.io">Lei Zhang</a> are licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+The code and data shared in this <a xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://doi.org/10.5194/essd-2024-618">study</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://leizhang-geo.github.io">Lei Zhang</a> are licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
 
 ## Contact
 
